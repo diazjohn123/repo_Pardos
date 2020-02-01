@@ -1,10 +1,31 @@
 # repo_Pardos
 
-## NOMBRE DEL PROYECTO
+## INTEGRANTES
 
-### INTEGRANTES
-
--Laura Daniela Castro - Lider
+-Laura Daniela Castro - líder
 -John Jairo Diaz - Diseñador
 -Andres Leonardo Parra - Progamador
--Robert Plazas
+-Robert Plazas - constructor 
+-Marven Otto - constructor
+
+### TÍTULO DEL PROYECTO
+
+#### DESCRIPCIÓN
+
+Diseño
+### ESQUEMAS ELÉCTRICOS
+
+### prototipo
+- breadboard
+- Modelo 3D
+
+### PlANOS DE CONSTRUCCIÓN 
+
+### CÓDIGO FUENTE
+
+Programador
+### ENLACE AL CÓDIGO FUENTE 
+
+constructor
+### EVIDENCIAS DE CONSTRUCCIÓN
+- Fotos, videos, etc.

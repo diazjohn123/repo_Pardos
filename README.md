@@ -15,7 +15,7 @@
 Diseño
 ### ESQUEMAS ELÉCTRICOS
 
-### prototipo
+### PROTOTIPO
 - breadboard
 - Modelo 3D
 
